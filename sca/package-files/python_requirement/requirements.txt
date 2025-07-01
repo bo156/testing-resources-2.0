@@ -4,3 +4,4 @@ matplotlib
 tensorflow
 validate_email
 setuptools<78
+pytest
