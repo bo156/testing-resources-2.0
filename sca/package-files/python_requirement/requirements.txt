@@ -3,3 +3,4 @@ scipy
 matplotlib
 tensorflow
 validate_email
+setuptools<78
